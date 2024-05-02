@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/joy": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "antd": "^5.16.5",
+    "react": "latest",
+    "react-color": "latest",
+    "react-color-picker-text": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^6.23.0",
+    "reactcss": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/react-color": "latest",
+    "@types/react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
